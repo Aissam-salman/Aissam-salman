@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Aissam 👋
 
-<!--
-**Aissam-salman/Aissam-salman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full-Stack Developer | 42 School | Freelancer
 
-Here are some ideas to get you started:
+Building everything from system shells in C to web applications for clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I Do:**
+- 🎓 42 School: Mastering C,C++ and systems programming (currently: Minishell)
+- 💼 Freelance: Delivering web solutions to real clients
+- 📖 Frontend Masters: Continuously leveling up my web dev skills
+- 🛠️ Building: From low-level system calls to high-level web frameworks
+
+**Journey:** Laravel & JavaScript → 42 School → Systems Programming
+
+**Tech:** C  • Java • JavaScript • PHP • Unix/Linux
