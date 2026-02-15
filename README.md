@@ -1,6 +1,6 @@
 ## Hi, I'm Aissam 👋
 
-👨‍💻 Full-Stack Developer | 42 School | Freelancer
+👨‍💻 Software engineer | 42 School | Freelancer
 
 Building everything from system shells in C to web applications for clients.
 
